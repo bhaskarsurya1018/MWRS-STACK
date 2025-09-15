@@ -1,0 +1,2 @@
+--global user.name "bhaskarsurya1018"
+--global user.email "bhaskarsurya94@gmail.com"
